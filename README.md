@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Integrantes:
 
-Things you may want to cover:
+- Luis Lopez.
+- Samira Muñoz.
 
-* Ruby version
+* Setup applicación
 
-* System dependencies
+- Prepar ambiente
+  ```
+  bundle install
+  rails db:setup
+  npm install
+  ```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Correr aplicación
+  ```
+  ./bin/webpack-dev-server
+  rails server
+  ```
