@@ -1,11 +1,11 @@
 # README
 
-* Integrantes:
+## Integrantes:
 
 - Luis Lopez.
 - Samira Muñoz.
 
-* Setup applicación
+## Setup applicación
 
 - Prepar ambiente
   ```
